@@ -21,8 +21,8 @@ This project extracts PDF headings (Round 1A) and persona-based relevant section
 - Run container:  
 
 ## Team
-- Rithi  
-- Snow
+- Rithikka  
+- Snow white
 
 ## Notes
 - Requires Python 3.10+ and PyMuPDF library  
